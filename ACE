@@ -112,6 +112,8 @@ acestream://5611b4c003cc5d284346fba2e05ea0b9d3b5eb59
 #EXTINF:-1 group-title="By @Jonatan_1987" tvg-id="DAZN LaLigaHD" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" ,DAZN LaLiga 720
 acestream://cea17e9054b0d23c91218d37045383657f65b8f3
 
+#EXTINF:-1 group-title="By @Avipetit" tvg-id="M+ #VAMOSHD" tvg-logo="https://i.ibb.co/dgqH0nP/Vamos.jpg" ,#Vamos 720
+acestream://b888712c494a93739d4f275806d7e4feb4c6d2f8
 #EXTINF:-1 group-title="By @Avipetit" tvg-logo="https://i.ibb.co/NZjMkfL/DAZN1.jpg" ,DAZN 1 720
 acestream://dfe2be8e254ceb5b2bd990b9d9877ebcc01e51da
 #EXTINF:-1 group-title="By @Avipetit" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,M. LALIGA 720
@@ -168,4 +170,4 @@ acestream://897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:0 group-title="By @nachete" tvg-id="DAZN 2 Bar HD [DE]" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-deutschland-2704.png" ,DAZN 2 Bar HD [DE]
 acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
 
-Actualizado 27-08 hora 21:45
+Actualizado 28-08 hora 16:45
