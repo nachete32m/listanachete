@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
+Lo#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
 #EXTINF:-1 group-title="By @Lucas_m_o_o_m" tvg-id="LALIGATV BAR" tvg-logo="https://i.ibb.co/ykCff9y/La-Liga-Bar.jpg" ,LaLiga Tv Bar 1080
 acestream://01b333b9369c662775902638ef8cffac346a0f61
 #EXTINF:-1 group-title="By @Lucas_m_o_o_m" tvg-id="LALIGATV BAR" tvg-logo="https://i.ibb.co/ykCff9y/La-Liga-Bar.jpg" ,LaLiga Tv Bar 720
@@ -145,9 +145,9 @@ acestream://9d18a5e9fe084446692c0a39e9db4d8b492a5b43
 #EXTINF:-1 group-title="By @myACETV" tvg-id="TV3 SPORT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/TV3_Sport_logo_2018.png" ,TV3 SPORT FHD
 acestream://9d18a5e9fe084446692c0a39e9db4d8b492a5b43
 #EXTINF:-1 group-title="By @myACETV" tvg-id="SETANTA SPORTS 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Setanta_Sports.svg/330px-Setanta_Sports.svg.png" ,SETANTA SPORT 1 FHD
-acestream://c297b6d128364c72eb0b53115b9e2cd03011cb1a
+acestream://60a854ea4080f88838080f9e12d7d209c3938f2b
 #EXTINF:-1 group-title="By @myACETV" tvg-id="MATCH TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/4/4d/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%9C%D0%B0%D1%82%D1%87_%D0%A2%D0%92.svg/768px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%9C%D0%B0%D1%82%D1%87_%D0%A2%D0%92.svg.png?20191101081223" ,MATCH TV FHD
-acestream://cd26e6f9a3ba26143a8f30ac9709913a9d2d4235
+acestream://56874272f8a5dad8799154ca5231ac41bf2a40e1
 
 #EXTINF:-1 group-title="By @nachete" tvg-id="BT Sport 1 [UK]" tvg-logo="https://archive.org/download/BtSport1/bt%20sport%201.png" ,BT Sport 1 [UK]
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
@@ -170,4 +170,4 @@ acestream://897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:0 group-title="By @nachete" tvg-id="DAZN 2 Bar HD [DE]" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-deutschland-2704.png" ,DAZN 2 Bar HD [DE]
 acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
 
-Actualizado 28-08 hora 16:45
+Actualizado 4-09 hora 10:00
